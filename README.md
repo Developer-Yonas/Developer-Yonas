@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🎯 I’m currently working on Fullstack Website Development. and
 - 🎯 I’m currently working on Front-end Application Development.
-- 📌 I’m using
+ 📌 I’m using
     ⚡ React-js      ⚡ React-Native  ⚡Material UI
     ⚡ Next-js       ⚡ Javascript    ⚡MySQL
     ⚡ Tailwind CSS  ⚡ Bootstrap     ⚡Node js
