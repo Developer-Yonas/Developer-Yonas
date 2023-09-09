@@ -3,8 +3,8 @@
 - 🎯 I’m currently working on Front-end Application Development.
 - I’m using
     - React-js      ⚡ React-Native  ⚡Material UI
-    - Next-js       ⚡ Javascript    ⚡MySQL
-    - Tailwind CSS  ⚡ Bootstrap     ⚡Node js
+    - Next-js       ⚡Tailwind CSS   ⚡MySQL
+    - Javascript    ⚡ Bootstrap     ⚡Node js
 - 📍 How to reach me: yoniman.wg@gmail.com |
                   📱: +251922711274
 <!--
