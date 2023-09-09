@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Fullstack Website Development.
+- 🔭 I’m currently working on Fullstack Website Development. and
 - 🌱 I’m currently working on Front-end Application Development.
 - 🤔 I’m using
-    - React-js      - React-Native
+    - React-js      -- React-Native
     - Next-js       - Javascript
     - Tailwind CSS  - Bootstrap
 - 📫 How to reach me: yoniman.wg@gmail.com | 📫 +251922711274
