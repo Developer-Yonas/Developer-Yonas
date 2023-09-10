@@ -1,5 +1,5 @@
 ###                         Hello, It's Yonas👋
-🎯 I’m currently working on Fullstack Website Development. and Front-end Development.
+📌 I’m currently working on Fullstack Website Development. and Front-end Development.
 - I’m using
     - React-js      ⚡ React-Native  ⚡Material UI
     - Next-js       ⚡Tailwind CSS   ⚡MySQL
