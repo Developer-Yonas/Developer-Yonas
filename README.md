@@ -1,9 +1,9 @@
 ###                         Hello, It's Yonas👋
 📌 I’m currently working on Fullstack Website Development. and Front-end Development.
 - I’m using
-    - React-js      ⚡ React-Native  ⚡Material UI
-    - Next-js       ⚡Tailwind CSS   ⚡MySQL
-    - Javascript    ⚡ Bootstrap     ⚡Node js
+    - React-js      ⚡ React-Native  ⚡Material UI ⚡Python
+    - Next-js       ⚡ Tailwind CSS  ⚡MySQL       ⚡Django
+    - Javascript    ⚡ Bootstrap     ⚡Node.js     ⚡Api-Integration
 - 📍 How to reach me: yoniman.wg@gmail.com |
                   📱: +251922711274
 <!--
