@@ -4,7 +4,7 @@
     - React-js      ⚡ React-Native  ⚡Material UI ⚡Python
     - Next-js       ⚡ Tailwind CSS  ⚡MySQL       ⚡Django
     - Javascript    ⚡ Bootstrap     ⚡Node.js     ⚡Api-Integration
-- 📍 How to reach me: yoniman.wg@gmail.com |
+- 📍 How to reach me: yoniman.wg@gmail.com ||
                   📱: +251922711274
 <!--
 **Developer-Yonas/Developer-Yonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
