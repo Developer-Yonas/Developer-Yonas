@@ -1,4 +1,4 @@
-My name is : Yonas Woldegerima, Software engineer.
+ Yonas Woldegerima, Software engineer.
 Email : yoniman.wg@gmail.com
 
 
