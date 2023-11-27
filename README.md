@@ -1,13 +1,9 @@
- Yonas Woldegerima, Software engineer.
-Email : yoniman.wg@gmail.com
+<h3 align="left">Yonas Woldegerima,<br>Software Engineer.<br>Email : yoniman.wg@gmail.com</h3>
 
-
-
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -46,7 +42,7 @@ Email : yoniman.wg@gmail.com
 
 ###
 
-<div align="center">
+<div align="right">
   <a href="https://www.linkedin.com/in/yonas-woldegerima-aaa673245" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
