@@ -3,6 +3,14 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Developer-Yonas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Developer-Yonas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Developer-Yonas&locale=en&mode=daily&theme=yeblu&hide_border=true&border_radius=20&order=3" height="155" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="javascript logo"  />
@@ -36,13 +44,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Developer-Yonas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Developer-Yonas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Developer-Yonas&locale=en&mode=daily&theme=yeblu&hide_border=true&border_radius=20&order=3" height="155" alt="streak graph"  />
-</div>
 
-###
+
+
 
 <div align="right">
   <a href="https://www.linkedin.com/in/yonas-woldegerima-aaa673245" target="_blank">
