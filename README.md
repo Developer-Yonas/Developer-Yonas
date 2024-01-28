@@ -9,12 +9,13 @@
 
 
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak --> 
+<div>
 <img src="https://streak-stats.demolab.com?user=Developer-Yonas&locale=en&mode=daily&theme=yeblu&hide_border=true&border_radius=20&custom_title=GitHub%20Streak" height="155" alt="GitHub Streak" />
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Developer-Yonas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&custom_title=Top%20Languages" height="150" alt="Top Languages" />
-
+<div/>
 
 Languages Used :
 <div align="left">
