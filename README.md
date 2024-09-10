@@ -41,7 +41,8 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
   </div>
-   <div style="display: flex; align-items: center; flex-wrap: wrap;">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-yonas&" alt="yonas-wg" /></p>
-     </div>
+  <div style="text-align: center; margin: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-yonas&" alt="yonas-wg" style="max-width: 100%; height: auto;"/>
+</div>
+
 </div>
