@@ -44,5 +44,9 @@
   <div style="text-align: center; margin: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-yonas&" alt="yonas-wg" style="max-width: 100%; height: auto;"/>
 </div>
+<h3 align="left">Github Status:</h3>
+<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Developer-yonas&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="yonas-wg" />
+</div>
 
 </div>
